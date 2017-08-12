@@ -1,0 +1,6 @@
+c:\users\codingtemple\documents\visual studio 2015\Projects\HelloWorld\HelloWorldTest\obj\Debug\HelloWorldTest.csprojResolveAssemblyReference.cache
+c:\users\codingtemple\documents\visual studio 2015\Projects\HelloWorld\HelloWorldTest\bin\Debug\HelloWorldTest.dll
+c:\users\codingtemple\documents\visual studio 2015\Projects\HelloWorld\HelloWorldTest\bin\Debug\HelloWorldTest.pdb
+c:\users\codingtemple\documents\visual studio 2015\Projects\HelloWorld\HelloWorldTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\users\codingtemple\documents\visual studio 2015\Projects\HelloWorld\HelloWorldTest\obj\Debug\HelloWorldTest.dll
+c:\users\codingtemple\documents\visual studio 2015\Projects\HelloWorld\HelloWorldTest\obj\Debug\HelloWorldTest.pdb
