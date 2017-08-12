@@ -1,0 +1,28 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace HelloWorld
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            HelloWorld.PrintMessage();   
+        }
+    }
+    class HelloWorld
+    {
+        public static void PrintMessage()
+        {
+            Console.WriteLine("Hello World");
+            Console.ReadLine();
+        }
+    }
+    public interface IHelloWorld
+    {
+        void PrintMessage();
+    }
+}
